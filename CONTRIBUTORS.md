@@ -7,5 +7,7 @@
 ```
 
 ## รายชื่อ
+- Prajanban  -ผู้ดูแลโครงการ
+- Sumalinee - Programers
 
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
