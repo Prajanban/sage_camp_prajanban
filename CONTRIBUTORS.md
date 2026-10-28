@@ -8,6 +8,6 @@
 
 ## รายชื่อ
 - Prajanban  -ผู้ดูแลโครงการ
-- sumalinee - Programer
+- Sumalinee - Programers
 
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
